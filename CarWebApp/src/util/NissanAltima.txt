@@ -1,0 +1,19 @@
+Model:Ford Wagon ZTW
+BasePrice:18000
+Option:Color:3
+Fort Knox Gold Clearcoat Metallic:0
+Liquid Grey Clearcoat Metallic:0
+Infra-Red Clearcoat:0
+Option:Transmission:2
+automatic:0
+manual:-815
+Option:BrakesTractionControl:3
+Standard:0
+ABS:400
+ABS with Advance Trac:1625
+Option:SideImpactAirBags:2
+present:350
+not present:0
+Option:PowerMoonroof:2
+present:595
+not present:0

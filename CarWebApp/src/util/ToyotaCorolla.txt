@@ -1,0 +1,19 @@
+Model:Toyota Corolla
+BasePrice:17000
+Option:Color:3
+Fort Knox Gold Clearcoat Metallic:0
+Liquid Grey Clearcoat Metallic:0
+Infra-Red Clearcoat:0
+Option:Transmission:2
+automatic:300
+manual:0
+Option:BrakesTractionControl:3
+Standard:0
+ABS:300
+ABS with Advance Trac:1200
+Option:SideImpactAirBags:2
+present:200
+not present:0
+Option:PowerMoonroof:2
+present:800
+not present:0

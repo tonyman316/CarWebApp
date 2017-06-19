@@ -1,0 +1,5 @@
+1:FileNotFound
+2:MissingPriceInTextFile
+3:MissingOptionSetData
+4:MissingOptionData
+5:MissingModelName
